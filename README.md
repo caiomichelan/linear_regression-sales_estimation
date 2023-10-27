@@ -49,8 +49,7 @@
 
 # 6. Conclusão
 <p align='justify'>O objetivo do projeto foi desenvolver um modelo de previsão das vendas de cada loja da rede de farmácias, garantindo a melhor distribuição dos recursos financeiros para realização das reformas propostas, tendo como base o faturamento das lojas de maneira individual.</p>
-<p align='justify'>Com a implementação do modelo foi possível prever o faturamento das lojas de maneira geral com uma margem média de erro de aproximadamente 1%.</p>
-
+<p align='justify'>Com a implementação do modelo foi possível prever o faturamento das lojas de maneira geral com uma margem média de erro (MAPE) de aproximadamente 10%.</p>
 <p align='justify'>Com base na projeção apresentada para as próximas seis semanas, a Diretoria Financeira poderá alocar os recursos de maneira mais eficiente em cada loja, tendo inclusive os cenários neutro, pessimista e otimista para auxílio no balizamento da Tomada de Decisão.</p>
 
 # 7. Próximos Passos
