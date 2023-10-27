@@ -16,7 +16,7 @@
 # 2. Premissas do Negócio
 <p align='justify'>Foram desconsiderados fatores externos como economia e segmento do negócio.</p>
 <p align='justify'>Foram consideradas apenas lojas abertas e que possuam alguma venda.</p>
-<p align='justify'>Na análise foram desconsideradas datas em que as lojas estiveram fechadas.</p>
+<p align='justify'>Na Análise Exploratória foram desconsideradas datas em que as lojas estiveram fechadas.</p>
 <p align='justify'>Considerando as lojas que não possuem lojas competidoras próximas, foi considerada uma distância muito maior à máxima distância observada na análise dos dados.</p>
 
 # 3. Estratégia da Solução
